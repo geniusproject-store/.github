@@ -1,7 +1,7 @@
 <h1 align="center">GeniusProject</h1>
 
 <p align="center"><strong>Final-year projects. Source code. Documentation. Results to explore.</strong></p>
-<p align="center">Engineering and software projects across 13 domains — a project of <strong>ConsultUni</strong>.</p>
+<p align="center">Engineering and software projects across 13 domains. a project of <strong>ConsultUni</strong>.</p>
 
 <p align="center">
   <a href="https://geniusproject.store"><strong>Explore the catalogue</strong></a> ·
@@ -161,7 +161,7 @@ Projects are intended for learning, investigation, adaptation, and demonstration
 | | |
 | --- | --- |
 | Website | [geniusproject.store](https://geniusproject.store) |
-| Project questions | [Telegram — @geniusprojectstore](https://t.me/geniusprojectstore) |
+| Project questions | [Telegram. @geniusprojectstore](https://t.me/geniusprojectstore) |
 | Email | [admin@consultuni.com](mailto:admin@consultuni.com) |
 | GSTIN | **36BVAPM4150R1Z6** |
 | Policies | [Privacy](https://geniusproject.store/privacy) · [Terms](https://geniusproject.store/terms) · [Contact](https://geniusproject.store/contact) |
